@@ -68,6 +68,7 @@ the project. You should be able to answer those questions._
   All project should have some **Spark** portion AND/OR some **Airflow** portion somewhere within the project.
   All projects must have some python scripts, SQL/NoSQL database, and make use of some data visualization outputs and
   kind of dashboard. (You may use any dashboard tech that is cleared with instrutors).
-  
-  
-  
+
+### Hosting
+
+see [https://github.com/ZipCodeCore/FinalProjects-Hosting](https://github.com/ZipCodeCore/FinalProjects-Hosting)
